@@ -1,8 +1,8 @@
 # HIMB field trip log summer 2022
 
-## June 6th 2022 - August 20th 2022
+### June 6th 2022 - August 20th 2022
 
-Tuesday 06/07/2022
+##### Tuesday 06/07/2022
 
 > Daily Tips: HIMB Lilipuna parking and pier gate code is 3246. Apparently it’s always the same 4 numbers, but they switch the order up occasionally. 
 
@@ -10,9 +10,7 @@ I departed Seattle and arrived in Honolulu with 2 bags of personal gear, 1 large
 
 ![img](https://lh5.googleusercontent.com/dFCpK7w1vLRDZN01BZ0ZNUWPWN9pfm-5qK7HN6X6aOSqNWuDZdlEGHOutJTl4V1cKML7RsCB3AweGclp7SxpZDvQRB0wLIcWjYsnF838bW4GLNsO8lu6TsUEGdxe77bahA20m2hk4YbE2wYEdA)
 
-
-
-Wednesday 06/08/2022
+##### Wednesday 06/08/2022
 
 > Daily Tip: The low vine ground cover near the blue tanks has stinging nettles! Wear garden gloves when pruning… 
 
@@ -28,7 +26,7 @@ I started the day by assessing the tanks, shelter frame, and tank platform. One 
 
 
 
-Thursday 06/09/2022
+##### Thursday 06/09/2022
 
 > Daily Tip: HIMB facilities managers arrive at 7am and wrap up their workday at 2pm. 
 
@@ -39,3 +37,86 @@ Started the day by walking over to the workshop near the lighthouse to talk to H
 ![img](https://lh6.googleusercontent.com/sdIqJlSUSTZDHmOdGQyOcp59u3XBDDxHY_vifFarQL5cBOHBQr4UPMOfG5mI8ALetP_H6Z_blPRHefnzvFjqnk45LkbWOGd3wVWfksXXbHPS-fQ9blz1PW1dSKAwN67Gp03puD16ZbojWBpmlA)
 
 ![img](https://lh4.googleusercontent.com/7NieRp2MRvmDc5dQrNyPBLJ_39yOcHmnNZGeReuBLs7LuEaLYlbhcr5msXDmTFbC7AQpZQHl0EgM1m3j6HGK3CkA0yD2STL8Qy9J-xhRBpNRuPoIipXd6eLg_DJ-bCTxVGIr9IQPLsnH85A3hQ)
+
+##### Friday 06/10/2022
+
+> Daily Tip: HIMB is all about who you know… Also it is useful to have a paper clip or hairpin to reset the Apex system!
+
+ King Kamehameha Day! Hawaiian State Holiday, so everybody is off!Except for us… and Ku’ulei. I slowed down a bit today and simply went through the boxes of gear and compared their contents to the [HIMB Creepy Closet Inventory](https://docs.google.com/document/d/1UdUgZ3InWl0HgHCUwtQaIBPcOXYm0jkd9lAEFNRc8sQ/edit). I highlighted what I found in green, and what I did not find I highlighted in red. The lids were literally locked closed, so I don’t know how they got in there, but **most of the bins had mice droppings** over everything. Many of the items were slightly wet, with a weird moist sticky texture. I didn’t really want to unpack and stash things in cabinets without being able to properly wash everything, so I simply left it at that for today. I attempted to connect with Ku’ulei in person; she had invited me to stop in at her lab and ride out on their boat for a snorkel while they deployed settlement substrate. I visited her lab twice, but no luck. Both times I stopped in she was out on the reef. I did spy **16 unused small glass aquariums on a shelf outside Ku’ulei’s lab** that would be perfect for my glass settlement chambers. I made a mental note next time I do see her to ask if anybody had plans to use them... I did recover the Z-fix, pointed out to me by one of her students. It’s now in lab 112a in the cabinet under the sink. It’s corrosive, but **we don’t have any chemical storage cabinets in 112a (another question for JPG & Ku’ulei? What do we do for chemical storage?**). The rest of the day I generally helped Ariana and Jill with a few basic setup things for their ‘squaricles’ and header tanks. The header tanks are set up in chest coolers and filled by a [livestock float valve](https://www.amazon.com/Trough-Matic®-Stock-Water-Tank/dp/B000B4GTPK/ref=sr_1_3?gclid=Cj0KCQjw-pCVBhCFARIsAGMxhAfqxPY8P3DJ3LgQ9sYTHapmPnSLyKWmti9ChSQh9baMiHsAdcGj6h0aAt69EALw_wcB&hvadid=385023619896&hvdev=c&hvlocphy=9032766&hvnetw=g&hvqmt=e&hvrand=15386426078298807836&hvtargid=kwd-584993332798&hydadcr=16356_9865272&keywords=livestock+water+trough+float+valve&qid=1655015524&sr=8-3). The chest coolers will be manipulated for temperature by Ariana and Jill’s Apex system with heaters. Another chest cooler will also be manipulated for acidity by Federica’s CO2 bubbler. Toward the end of the day I was approached by someone from the Ford group and told that **the water line that supplies our blue tanks and the water line that supplies the Coral Resilience tanks is the same**, and they noticed their water flow was way down when ours were running. I told the person to talk to Ariana, and she and Ford seem to have worked it out. We called it a day early at 4pm and went over to Makai Beach with Ariana and the Ford Lab group for a grill out and a swim. Afterwards, we returned and Jill and Ariana showed me the Apex system as they did troubleshooting to reset it and connect it to the HIMB WiFi. 
+
+
+##### Saturday 06/11/2022
+
+> Daily Tip: Download WhatsApp! We’re using it to group text because Federica has an international phone, and it works great. Jill has dubbed this field season #spawngirlsummer. Lookout…
+
+Written by [Sarah Tanja](mailto:stanja@uw.edu): Kicked off the day with a trip to Kane’ohe Pancake House at 8am for a breakfast out. Jill loves pancakes, and the mac nut waffle with whip cream was pretty heavenly. Ariana dropped Jill, Federica and I at Safeway to grab some groceries while she went to the hardware store. I purchased cleaning supplies for the creepy closet gear (with a plan to request purchase approval after the weekend). We spent a large portion of the day at the tanks, where I made 6 individual shade-cloths for tanks using 1” PVC pipe, PVC straight connectors, [PVC snap clamps](https://www.amazon.com/White-Snap-Clamp-Inch-Inches/dp/B00AIE89CY/ref=asc_df_B00AIE89CY/?tag=hyprod-20&linkCode=df0&hvadid=193142362025&hvpos=&hvnetw=g&hvrand=12000454515498972614&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9032766&hvtargid=pla-308320622760&psc=1), zip-ties, [pony clamps](https://www.amazon.com/Professional-Plastic-Backdrop-Photography-Improvement/dp/B08RXW32H4/ref=sxin_13_pa_sp_search_thematic_sspa?content-id=amzn1.sym.a1dd6248-8b51-4ef7-9dfb-d3cf41015b4b%3Aamzn1.sym.a1dd6248-8b51-4ef7-9dfb-d3cf41015b4b&cv_ct_cx=pony+clamps&gclid=Cj0KCQjw-pCVBhCFARIsAGMxhAfS2htYCEyIEbJ7iJ4iwNfW-qxQl0gz6SDtcET1ABzi-uXzQ6kF3RcaAhIREALw_wcB&hvadid=177805266466&hvdev=c&hvlocphy=9032766&hvnetw=g&hvqmt=e&hvrand=12563825568108167339&hvtargid=kwd-176420902&hydadcr=1607_9901437&keywords=pony+clamps&pd_rd_i=B08RXW32H4&pd_rd_r=abe9e1c5-d294-4b27-9803-fd73e6e27863&pd_rd_w=MATiP&pd_rd_wg=WUMxG&pf_rd_p=a1dd6248-8b51-4ef7-9dfb-d3cf41015b4b&pf_rd_r=ND86VGN3MH9EQK90Y0NK&qid=1655016534&sr=1-4-a73d1c8c-2fd2-4f19-aa41-2df022bcb241-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUExMUZGTkw4UE9VR081JmVuY3J5cHRlZElkPUEwOTcyOTU2MlJJRkxBRjFWQldNQyZlbmNyeXB0ZWRBZElkPUExMDEwNDg1WDFDNU5LRDVUMExVJndpZGdldE5hbWU9c3Bfc2VhcmNoX3RoZW1hdGljJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ==), and the shade cloth material [come back and add link to that stuff…]. I cleaned and added the 1” threaded elbow connectors and the 1” PVC stand-pipe to the tank outflow for the 6 tanks we will use for adult bead feed treatments. I helped set up the shade tent for the humans as well! In attempting to get all the cables to reach where they needed to go, we realized that **2x4 boards are supposed to lay across the cinder blocks to support the tanks**… something we did not put on the tanks that Ariana and Jill had already set up. We will have to go back and empty those tanks and add 2x4’s to them to prevent sagging. Jill focused on the Apex system. Current ‘issue’ is that **the temp probe cables cross the main walking path between the tank columns at ankle height and are a bit of a tripping hazard**. We will try to optimize this over the next few days, either by moving the location of the power strip or moving the blue tanks closer together. Once the Apex system was up and running, we went and collected *Pocillopora acuta !* Ariana selected the colonies and removed them from the reef with a small ball hammer and narrow chisel. Jill recorded via GoPro (and it automatically made this [cute highlight reel](https://photos.app.goo.gl/R1tLCTocDYDsMybH9)!), Federica placed two HOBO loggers on the reef flat, and all three of us swam colonies back to the shallows between the Ford lab and the broken down bungalow attached to the Hinalea. Once all the corals were gathered up in the shallows, we shuttled them in 5 gal buckets of seawater back to the tanks. The *P. acuta* are brooders, so they release live larvae. These colonies we collected today will be the ‘live larvae producers’ that we set each night individually in pitchers that are designed to flow into a ‘larvae trap’. Federica and I set the colonies in their pitchers and arranged the traps and water flow in each around 7pm local time. The idea is that it gets too hot for them to be in the small pitchers during the heat of the day, and you need to wait until it cools down to transfer them. They will release larvae sometime in the night between midnight and 6am. At 7am, we will remove the colonies from the pitchers and give them more ‘breathing room’ in the large blue tank and cover it with a shade cloth to keep the brooders cool and happy. Fingers crossed there are a few larvae to show for it all in the traps tomorrow morning! 
+
+![img](https://lh4.googleusercontent.com/c44HzbtdjFQZwBjBdoNm84FQei67FoF0CX6G4ZP3P3cRols_zgBURfYiA22bMtb2zT38oPENIEWn4uyiJRWcs-chTrKK6z5dd_7zpHwDs-n5zKokK_iwFtrfRNL5gAhjkduy86YXYpZrcjgQZw)
+
+![img](https://lh3.googleusercontent.com/U-JoE_F5PfCdkgQ9DjoNevD3M7F9tFrevibvMkeWFAL_ZyKBO2-Ozks_nPyT3ubttehn_lv0riKhwroQXOe6wK9lhhIffJR2VkwevpVbJAUvBHnNhSuEQ6AemDHAV19-A-UQD8rQ4umYowEtiA)
+
+![img](https://lh6.googleusercontent.com/pp2a0CfHeMujaL40_6jVhgLxrBZ0zIl7yX4CwTxQLNTEp9A82KlPikSYokGvKXojPDVqWazF-7d7D-wGUoLSKPTqUq0FfxdHC6xlbsdITvbIwdr_R49KCR3SPI_RqSdLcAaJOxV1UkL-WZtHYg)
+
+![img](https://lh3.googleusercontent.com/AwHir7fEFAmfn_yZa0n3j50YWaJMK5AbSfwDkDJb9wpdPSo1bbxr85nOm45yI0y8OnEGYmGYjF1vBaV_hAQhGwdLGRwT4m7yNQZt8FGO-bnDqO9FnItODc1ZvtBkp5PdAa-Vw3kq6_LXb8bDGw)
+
+![img](https://lh5.googleusercontent.com/ja_ur1Kt12808AKR4jzweOPjGb9sXrCECr5iU0wW4b3odhbTMPgM0O2jBs2s3zrLRghWSpBRC2cli_s5i0sT1ov9nS7LLsYOsJVJ6WpirkiJ713Dm6kgYJjV5hmcKhibdSgxc_JgrfyYv1UDWw)
+
+![img](https://lh4.googleusercontent.com/syCbcyjpfJxjf9CJk0bJSOn-5UFaM-Ak_mRDx3n2pte5F6TzCDNUrA-UMEQmYqrr5AOp5TxnnI1GPP5hmfdGh9LnGvqh7ElroMZ2alzDllt9S9NaG7fkw4esBIqsvbaUqt7zPA9ulSrwEnyETw)
+
+![img](https://lh5.googleusercontent.com/v13zjisi4zEp2DYTDP9k1V2_lmfLZj86tg1bVBrXpUbDtinBehKJA8zqiLDo4xapRqdI7ePsrbZVsfPA1tuSSb39dFFMz2gSfIIztR_blelxJhk9uYXbvSl92ATRBCFw7KpCdhiVPEW0KWjjDQ)
+
+![img](https://lh3.googleusercontent.com/kxeELSbg1NLDRKcbjLCNgMRcFxb5cdl-g0pRZb1XT6Ay7_2zBnPvexUhPrLlMxhykDstPp7onib0YVSVLdi6etdbY5yVHL11rQesuATYqvB-qbB39uazgf8ZXrAAl1BIdGKVhgwQZNsBVX2uCA)
+
+
+
+![img](https://lh3.googleusercontent.com/nA7eGTla0otFlxUCTbhbg-zYTlAK_En5jIi2DTH5jzFoKBueVTkSZf_KwHIGdkS-Ja2LqYM4ubkBb32tTBAobe7EABFjEKpiEN6k64jBhknMcUj1YXnRiuOiWlJkBICO1xVJxpsb2aF3NaoMNg)
+
+![img](https://lh6.googleusercontent.com/c_OLqd80I5CxecxV_pwp5t0IRu_mu-DGGkDkobsZ9x135_WftXFiP8oB1pKX5TEn11cLBWeJfx3O4sLyCTeKW1wN-5lstwKsKakgThEs5JlW0MbEDpzYDGHWmF5XPF0VIO3jk18plpcnJ0n9tg)
+
+![img](https://lh5.googleusercontent.com/XWxPYgUNMpMVCM3P26DSJNQJNOaCy1r92jF7KPZdt0wpUS8KYQ6HXhjzDG_m6O8rxw3RCrHHicvN_WF6X4uKnWJptRH6Ehbb1vDGT7JDHVvOZFGmabHC62vSxs1iXaN4QOjS0_0yCshWLJNHCA)
+
+##### Sunday 06/12/2022
+
+Continued to clean out to insides of the tanks in the early morning, then spent the rest of the day with family in Honolulu. My Uncle Kev and Auntie Candy picked me up at 10AM at Lilipuna pier, and I stayed at my Auntie Nan’s apartment with my Dad overnight.
+
+##### Monday 06/13/2022
+
+Uncle Kev dropped me back off at Lilipuna pier by 8AM, and I caught the ferry over to HIMB! I spent the morning looking for my Mason Jars (I found them in room 105, right next to the dive locker in the ‘new old poly’ lab building), emailing about potential purchases (HOBO loggers) and picking up two more packages (The dissecting scope and camera from AMazon!) from Ku’ulei. I worked to set up the second microscope and camera. I downloaded camera software from Amscope, but could not find the driver software because all the links to the drivers on the Amscope webpage were broken. I called Amscope customer service, but got a voicemail. Lunch with Ku’ulei, invited to Hanauma Bay Monday. Hardware store , Makita corded drillDrilled 16 Mason Jars
+
+##### Tuesday 06/14/2022 
+
+> Super Moon!
+
+ToupView software + drivers, uninstalled Amscope software.
+
+Today I finally turned the water on! Water is flowing through 6 blue tubs. 
+
+Practice with camera & P.acuta larvae
+
+##### Wednesday 06/15/2022
+
+Low tide pics!
+
+##### Thursday 06/16/2022
+
+> Happy Birthday to me :) 
+
+##### Friday 06/17/2022
+
+Evening margaritas
+
+##### Saturday 06/18/2022
+
+A very small hangover
+
+##### Sunday 06/19/2022
+
+Father's day, Juneteenth
+
+##### Monday 06/20/2022
+
+Juneteenth observed federal holiday
+
+At 0800 I helped Federica move *P. acuta* colonies from pitchers and clean larvae traps. Hardly any larvae (basically none)  Jackie, Callum and I made plans to meet for an orientation snorkel at 0930. 
+
+##### Tuesday 06/21/2022
