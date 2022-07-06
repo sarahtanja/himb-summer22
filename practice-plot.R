@@ -33,19 +33,3 @@ ggplot(df, aes(x=pae_dose_ugL, y=fert)) +
   geom_point() +
   scale_x_continuous(trans='log10')
 
-# import data
-pae <- read_csv(file="pae-dosing.csv")
-
-# filter for just cleavage phase 
-cleavage <- filter(pae, phase == "cleave", colony_a == "wild")
-
-# violin plot on continuous x axis 
-ggplot(cleavage, aes(x=factor(pae_ugL), 
-                     y=percent_response)) +
-  geom_violin(draw_quantiles = c(0.25, 0.5, 0.75),
-              aes(fill = pae_ugL)) +
-  geom_point() +
-  #scale_x_continuous(name = 'concentration of phthalates in ug/L') +
-  scale_y_continuous(name = '% of M. capitata eggs reaching initial cleavage')
-
-
