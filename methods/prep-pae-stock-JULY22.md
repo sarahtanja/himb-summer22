@@ -120,20 +120,7 @@ The EPA standard mix is 500$\mu$g/mL (or also 500,000$\mu$g/L). This is our know
 
 Final volume of stock solutions must be enough to use in subsequent serial dilutions and in sample vials over the course of three nights of spawning. Stock solutions must be kept between -3C to -8C in a chemical storage refrigerator (same as the EPA standards mix).
 
-###### [ ]  Make 50mL of 500$\mu$g/L stock using EPA standard mix
-
-$$
-500\mu g(V_1)=0.50\mu g(50mL) \\
-V_1= \frac{0.50\mu g (50mL)}{500 \mu g} \\
-V_1 = 0.05
-mL
-$$
-
-$0.05mL = 5\mu L$  : volume of EPA standard mix to add to stock solution 3oz mason jar
-
-$50mL - 0.05mL = 49.95mL$ : volume of filtered seawater to add to each 3oz mason jar to attain end volume of 50mL *(Do this via graduated cylinder, then add via p200)*
-
-###### [ ]  Make 1000mL of 150$\mu$g/L stock using EPA standard mix
+###### [ ] PEAK:  Make 1000mL of 150$\mu$g/L using EPA standard mix
 
 $$
 500\mu g(V_1)=0.150\mu g(1000mL) \\
@@ -142,168 +129,47 @@ V_1 = 0.3
 mL
 $$
 
-$1000mL - 0.3mL = 999.7mL$ : volume of filtered seawater to add to 1000mL reagent jar  *(Do this via graduated cylinder, then add via p200)*
+$1000mL - 0.3mL = 999.7mL$ : volume of filtered seawater to add to 1000mL reagent jar  *(Do this via graduated cylinder, then add via p200 pipette)*
 
 $0.3mL = 300\mu L$  : volume of EPA standard mix to add to 1000mL reagent jar to attain end volume of 1000mL *(use p200 pipette)*
 
-###### [ ]  Make 1000mL of 50$\mu$g/L stock using EPA standard mix
-$$
-500\mu g(V_1)=0.05\mu g(800mL) \\
-V_1= \frac{0.05\mu g (800mL)}{500\mu g} \\
-V_1 = 0.08mL
-$$
-
-$0.08mL = 80\mu L$  : volume of EPA standard mix to add to stock 32oz mason jar
-
-$800mL - 0.08mL = 799.92mL$ : volume of filtered seawater to add to each 32oz mason jar to attain end volume of 800mL (Do this via graduated cylinder, then add via stereological and p200 pipette)
-
-###### [ ]  Make 1000mL of 5$\mu$g/L stock using 50$\mu$g/L stock
+###### [ ]  HIGH: Make 1000mL of 50$\mu$g/L stock using EPA standard mix
 
 $$
-0.05\mu g(V_1)=0.005\mu g(800mL) \\
-V_1= \frac{0.005\mu g (800mL)}{0.05 \mu g} \\
-V_1 = 80mL
-$$
-
-$80mL$  : volume of 50$\mu$g/L stock  to add to 0.005$\mu$g/mL stock 32oz mason jar
-
-$800mL - 80mL = 720mL$ : volume of filtered seawater to add to each 32oz mason jar to attain end volume of 800mL *(Do this via graduated cylinder, then add via stereological pipette)*
-
-###### [ ]  Make 800mL of 0.5$\mu$g/L stock using 5$\mu$g/L stock
-
-$$
-0.005\mu g(V_1)=0.0005\mu g(800mL) \\
-V_1= \frac{0.0005\mu g (800mL)}{0.005 \mu g} \\
-V_1 = 80mL
-$$
-
-$80mL$  : volume of 5$\mu$g/L stock  to add to 0.05$\mu$g/mL stock 32oz mason jar
-
-$800mL - 80mL = 720mL$ : volume of filtered seawater to add to each 32oz mason jar to attain end volume of 800mL *(Do this via graduated cylinder, then add via stereological pipette)*
-
-### Prepare treatments
-
-The end volume for each treatment is 20mL
-
-### 150$\mu$g/L
-
-#### 20mL scintillation vials
-
-Add 20mL from 150$\mu$g/L stock directly 
-
-#### 24 well-plate
-
-Add 3mL from 150$\mu$g/L stock directly 
-
-OR 
-
-If crossing treatment with beads:
-
-Add 900$\mu$L from 500$\mu$g/L stock
-$$
-0.5\mu g(V_1)=0.150\mu g(3mL) \\
-V_1 = \frac{0.150\mu g(3mL)}{0.5\mu g} \\
-V_1 = 0.9mL
-$$
-$0.9mL = 900\mu L$  : volume of 500$\mu$g/L PAE stock solution to add to each 24-well plate
-
-$1000\mu L - 900 \mu L = 100\mu L$ : volume of filtered seawater to add to each well to attain end volume of 1mL
-
-### 50$\mu$g/L
-
-#### 20mL scintillation vials
-
-Add 20mL from 50$\mu$g/L stock directly 
-
-#### 24 well-plate
-
-Add from 50$\mu$g/L stock directly 
-
-OR 
-
-If crossing treatment with beads:
-
-Add 300$\mu$L from 500$\mu$g/L stock
-$$
-0.5\mu g(V_1)=0.05\mu g(3mL) \\
-V_1 = \frac{0.05\mu g(3mL)}{0.5\mu g} \\
-V_1 = 0.3mL
-$$
-$0.3mL = 300\mu L$  : volume of 500$\mu$g/L PAE stock solution to add to each 24-well plate
-
-$1000\mu L - 300 \mu L = 700\mu L$ : volume of filtered seawater to add to each well to attain end volume of 3mL
-
-### 5$\mu$g/L
-
-#### 20mL scintillation vials
-
-Add 20mL from 5$\mu$g/L stock directly 
-
-#### 24 well-plate
-
-Add from 5$\mu$g/L stock directly 
-
-OR 
-
-If crossing treatment with beads:
-
-Add 300$\mu$L from 50$\mu$g/L stock
-$$
-0.05\mu g(V_1)=0.005\mu g(3mL) \\
-V_1 = \frac{0.005\mu g(3mL)}{0.05\mu g} \\
-V_1 = 0.3mL
+500\mu g(V_1)=0.05\mu g(1000mL) \\
+V_1= \frac{0.05\mu g (1000mL)}{500\mu g} \\
+V_1 = 0.1mL
 $$
 
 
-$0.3mL = 300\mu L$  : volume of 50$\mu$g/L PAE stock solution to add to each 24-well plate
 
-$1000\mu L - 300 \mu L = 700\mu L$ : volume of filtered seawater to add to each well to attain end volume of 3mL
+$1000mL - 0.1mL = 999.9mL$ : volume of filtered seawater to add to 1000mL reagent jar to  (Do this via graduated cylinder, then add via stereological and p200 pipette)
 
-### 0.5$\mu$g/L
+$0.1mL = 100\mu L$  : volume of EPA standard mix to add to 1000mL reagent jar to attain end volume of 1000mL *(use p200 pipette)*
 
-#### 20mL scintillation vials
+###### [ ]  MID: Make 1000mL of 5$\mu$g/L stock using 50$\mu$g/L stock
 
-Add 20mL from 0.5$\mu$g stock directly 
-
-#### 24 well-plate
-
-Add from 0.5$\mu$g/L stock directly
-
-OR 
-
-If crossing treatment with beads:
-
-Add 300$\mu$L from 5$\mu$g/L stock
 $$
-0.005\mu g(V_1)=0.0005\mu g(3mL) \\
-V_1 = \frac{0.0005\mu g(3mL)}{0.005\mu g} \\
-V_1 = 0.3mL
+0.05\mu g(V_1)=0.005\mu g(1000mL) \\
+V_1= \frac{0.005\mu g (1000mL)}{0.05 \mu g} \\
+V_1 = 100mL
 $$
 
+$1000mL - 100mL = 900mL$ : volume of filtered seawater to add to 1000mL reagent jar  *(Do this via graduated cylinder)*
 
-$0.3mL = 300\mu L$  : volume of 5$\mu$g/L PAE stock solution to add to each 24-well plate
+$100mL$  : volume of 50$\mu$g/L stock  to add to 0.005$\mu$g/mL stock 1000mL reagent jar to attain end volume of 1000mL *(do this via 4 pulls of 25mL serological pipette)*
 
-$1000\mu L - 300 \mu L = 700\mu L$ : volume of filtered seawater  to add to each well to attain end volume of 3mL
+###### [ ]  LOW: Make 1000mL of 0.5$\mu$g/L stock using 5$\mu$g/L stock
 
-### 0 (control)
+$$
+0.005\mu g(V_1)=0.0005\mu g(1000mL) \\
+V_1= \frac{0.0005\mu g (1000mL)}{0.005 \mu g} \\
+V_1 = 100mL
+$$
 
-#### 20mL scintillation vial
+$1000mL - 100mL = 900mL$ : volume of filtered seawater to add to 1000mL reagent jar *(Do this via graduated cylinder)*
 
-Add 20mL of filtered seawater to each 20mL scintillation vial labelled for the control treatment
+$100mL$  : volume of 5$\mu$g/L stock  to add to 0.05$\mu$g/mL stock 1000mL reagent jar to attain end volume of 1000mL *(do this via 4 pulls of 25mL serological pipette)*
 
-#### 24 well-plate
 
-Add 3mL of filtered seawater to each well
-
-### Blank (HPLC-water)
-
-#### 20mL scintillation vial
-
-Add 20mL of HPLC water to each 20mL scintillation vial labelled as a procedural blank for SPME QA/QC
-
-#### 24 well-plate
-
-Do not add HPLC water to well plates! 
-
-Take triplicate 4mL vials of each stock used for SPME QA/QC
 
