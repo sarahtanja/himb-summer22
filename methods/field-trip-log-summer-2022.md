@@ -87,11 +87,11 @@ Uncle dropped me back off at Lilipuna pier by 8AM, and I caught the ferry over t
 
 > Super Moon!
 
-ToupView software + drivers, uninstalled Amscope software.
+- ToupView software + drivers, uninstalled Amscope software.
 
-Today I finally turned the water on! Water is flowing through 6 blue tubs. 
+- Today I finally turned the water on! Water is flowing through 6 blue tubs. 
 
-Practice with camera & P.acuta larvae
+- Practice with camera & P.acuta larvae
 
 ##### Wednesday 06/15/2022
 
@@ -127,4 +127,106 @@ At 0800 I helped Federica move *P. acuta* colonies from pitchers and clean larva
 
 ##### Sunday  07/03/2022
 
-I woke from a very restful night at my Auntie and Uncles house that I'll attribute to the cooler temperatures in Palolo valley and the black-out curtains in the spare bedroom. I met up with Jill and Federica at the Lilipuna pier (they had taken the 10AM shuttle boat across), and we drove together to the Kaneohe Pancake House for a late brunch. After macadamia nut pancakes, crepes, a strawberry waffle, spam, and lots of coffee, we had a plan for enjoying some 4th of July festivities and  getting in a few fun dives before our time drew to a close. After brunch we went to City Mill and Jill and Federica helped me find the right PVC adaptor and brass barbed coupling pieces to setup my glass settlement chambers with individualized tubing that runs to each chamber via a manifold. We then drove to Westside Dive & Tackle in Kailua, a free dive and spearfishing specialty shop, where I got new 4mm dive socks that were thinner and more flexible to wear with my dive fins compared to the 7mm boots that rubbed my pinky toes raw. I also got a new mask, snorkel, whetstone, and a net that looked like it was made for catching underwater butterflies (how could I resist?). We made it back to the Lilipuna pier for the 2PM shuttle boat. Back on Moku O' Lo'e, I assembled the new manifold with one trial chamber setup. We geared up for a snorkel and returned the *P. acuta* colonies that we had collected with Ariana Huffmyer on 06/11/2022. Federica picked out 13 fresh colonies with high hopes that they would pop out brooded larvae, we shuttled them back to a blue tub for a night of acclimation. I rinsed gear, showered, and sat down to read more 'Pollution is Colonialism' by Max Liboiron. Around 7PM  I read " ...CLEAR no longer uses chemicals that require hazardous waste disposal, because hazardous waste disposal assumes access to Land as a sink." pg. 135, chapter 3, An Anticolonial Pollution Science, and my eyes went big as I registered that I had forgotten to move the *P. compressa* histology fragments from the z-fix paraformaldehyde to 70% ethanol 48hrs after collection. I leapt up and headed straight to the lab to collect supplies for the transfer (70% ethanol, squirt bottle, gallon ziploc, 50mL falcon tubes for waste, large forceps to hold back coral fragments as I poured out the z-fix, nitrile gloves, and a mask) into a carboard box, then headed to the Coral Resilience Lab hood and set to work transferring all the z-fix into 50mL falcon tubes, caping them tightly, and placing those all together in a ziploc bag, labeling it 'z-fix: FSW, 1:4, haz waste'. I brought everything back down to lab 112, placing the z-fix waste bag under the sink in temporary storage and the *P. compressa* histology fragments in upright racks on the top shelf above the lab bench. Callum must have some 6th sense, because just as I finished up he texted me asking how things went with swapping the z-fix for 70% ethanol. I had to share the bad news about my mess-up, leaving the fragments in z-fix for 103hrs instead of the 48hrs listed in the protocol. I ended the day by emailing Jackie the same bad news. I know that I can go collect new fragments if I need to, but I also know that Jackie wanted the fragments as early as possible to improve the chances of seeing whether the fragments were male or female. I really hope I didn't ruin that objective. I feel awful for forgetting, especially after I re-assured Callum and Jackie that I had it on my calendar and that I wouldn't forget! 
+I woke from a very restful night at my Auntie and Uncles house that I'll attribute to the cooler temperatures in Palolo valley and the black-out curtains in the spare bedroom. I met up with Jill and Federica at the Lilipuna pier (they had taken the 10AM shuttle boat across), and we drove together to the Kaneohe Pancake House for a late brunch. After macadamia nut pancakes, crepes, a strawberry waffle, spam, and lots of coffee, we had a plan for enjoying some 4th of July festivities and  getting in a few fun dives before our time drew to a close. After brunch we went to City Mill and Jill and Federica helped me find the right PVC adaptor and brass barbed coupling pieces to setup my glass settlement chambers with individualized tubing that runs to each chamber via a manifold. We then drove to Westside Dive & Tackle in Kailua, a free dive and spearfishing specialty shop, where I got new 4mm dive socks that were thinner and more flexible to wear with my dive fins compared to the 7mm boots that rubbed my pinky toes raw. I also got a new mask, snorkel, whetstone, and a net that looked like it was made for catching underwater butterflies (how could I resist?). We made it back to the Lilipuna pier for the 2PM shuttle boat. Back on Moku O' Lo'e, I assembled the new manifold with one trial chamber setup. We geared up for a snorkel and returned the *P. acuta* colonies that we had collected with Ariana Huffmyer on 06/11/2022. Federica picked out 13 fresh colonies with high hopes that they would pop out brooded larvae, we shuttled them back to a blue tub for a night of acclimation. I rinsed gear, showered, and sat down to read more 'Pollution is Colonialism' by Max Liboiron. Around 7PM  I read " ...CLEAR no longer uses chemicals that require hazardous waste disposal, because hazardous waste disposal assumes access to Land as a sink." pg. 135, chapter 3, An Anticolonial Pollution Science, and my eyes went big as I registered that I had forgotten to move the *P. compressa* histology fragments from the z-fix paraformaldehyde to 70% ethanol 48hrs after collection. I leapt up and headed straight to the lab to collect supplies for the transfer (70% ethanol, squirt bottle, gallon ziploc, 50mL falcon tubes for waste, large forceps to hold back coral fragments as I poured out the z-fix, nitrile gloves, and a mask) into a carboard box, then headed to the Coral Resilience Lab hood and set to work transferring all the z-fix into 50mL falcon tubes, caping them tightly, and placing those all together in a ziploc bag, labeling it 'z-fix: FSW, 1:4, haz waste'. I brought everything back down to lab 112, placing the z-fix waste bag under the sink in temporary storage and the *P. compressa* histology fragments in upright racks on the top shelf above the lab bench. Callum must have some 6th sense, because just as I finished up he texted me asking how things went with swapping the z-fix for 70% ethanol. I had to share the bad news about my mess-up, leaving the fragments in z-fix for 103hrs instead of the 48hrs listed in the protocol. I ended the day by emailing Jackie the same bad news. I know that I can go collect new fragments if I need to, but I also know that Jackie wanted the fragments as early as possible to improve the chances of seeing whether the fragments were male or female. I really hope I didn't ruin that objective. I feel awful for forgetting, especially after I re-assured Callum and Jackie that I had it on my calendar and that I wouldn't forget!
+
+##### Thursday 08/04/2022
+
+ 
+
+##### Friday 08/05/2022
+
+- Picked up Putnam-Lab dry shipper with Callum from UH main campus, it was still full of LN2 from the day before!
+- Prepped cryovials for flash freezing the ambient environmental baseline of  *M. capitata* samples from 10 genetically distinct colonies for later omics and microbiome analysis
+- Dr. Jackie Padilla-Gamiño collected 10 *M. capitata* colonies for the phthalate and temperature multiple stressor acute exposure experiment from the  southeastern corner of Coconut Island (entered water at the small beach between the Maturation Building (aka Coral Resilience Lab) and Hale Hinalea)
+- Dr. Jackie Padilla-Gamiño, Callum Backstrom, and I did some housekeeping at the racks. I scraped *P. compressa* cow tags of algae, Callum collected samples for metals, Jackie cleared *M. capitata* racks of excess growth
+- Clipped ~3cm fragments from each colony, Jackie moved them into cryovials, capped them tightly, and dropped them into liquid nitrogen in a small thermos. We brought the thermos of liquid nitrogen and samples to the -80 freezer, and transferred them to a wax freezer box (using long forceps to get vials out of liquid nitrogen) 
+- Stayed late to begin the pool party test trial. The objective of this trial is to see how long a small fragment of coral can last in a closed 20mL mesocosm with increasing phthalate exposure.  For the planned experiment, we also hope to have temperature as a multiple stressor factor. 
+
+##### Saturday 08/06/2022
+
+- Cleaned and returned all 16 2gal aquariums to Dr. Ku'ulei Rodgers (this took 2.5hrs!)
+- Assessed coral after 15hr exposure
+- Cut at least 14 2cm fragments and 14 3cm fragments from each of the 10 *M. capitata* colonies collected Friday 08/05/2022, set on egg-crate racks to acclimate until experiment start (this took 3hrs!)
+
+To cut coral fragments I setup a driftwood board workbench over a tank with a ruler to measure 2cm and 3cm fragments of *M. capitata*, attempting to make as few 'pruning' trims as possible, and checking that each fragment would fit in a 20mL vial. I used the small bone cutters and 70%ethanol between working with each colony. Setting the 2cm fragments on the egg crate is a little tricky because the length between cross-pieces is just about cm, so the fragments rest perfectly across one square, or if they're a little short or nudged, they fall through the egg crate. 
+
+##### Sunday 08/07/2022
+
+- Drove Jackie to the airport, added Callum to the rental car 
+
+- Wandered the  Aloha Stadium swap meet for souvenirs and lunch!
+
+- Unboxed Apex EL, connected to WiFi, daisy chained PM's and connected temp probes
+
+  
+
+  Ended the day by visiting my Auntie for dinner :) 
+
+##### Monday 08/08/2022
+
+- Programmed Apex EL with code modified from Ariana Huffmyer and Jill Ashey, details can be found in apex-el.setup.md
+- Could not fix error with data logging, opened a help ticket with Apex customer support
+- Quick visual check of day 3 pool party test, most fragments were still looking good. 
+
+Today was a slog of troubleshooting Apex! I worked in the lab from 8AM to 4PM straight, and succesfully programmed the Apex with 16 virtual outlets that controlled 4 real outlets. Despite the fact that the temperature probes were responding to changes in temp ( when I held a probe in my hand, temp would increase from room temp to body temp ), the graphs in the Apex fusion site would not populate with logged data. I reset the clock, rebooted the Apex, re-connected to WiFi and to the Network directly via an ethernet cable. I spent hours reading Apex documentation and troubleshooting posts. 
+
+Frustrated, I took a short break and cleaned out a tank. Callum helped me move *F. scutaria* and *M. capitata* to the tank across from the acclimating fragments. 
+
+We departed HIMB around 6PM.  
+
+##### Tuesday 08/09/2022
+
+- Found that Apex EL unit has a manufacturer defect of a bad SD card, stuck in the year 2013. This prevents data logging because the Apex system only displays temp data from the last 3 months.
+- Assessed day 4 of pool party test, 5cm and 3cm fragments decaying. Concluded maximum length of pool party experiment should be no more than 3 days, and using 2cm fragments. 
+- Cleaned and flipped 4 large blue tubs
+- Cleaned all glass settlement chambers and set to dry
+- Began cleaning food-safe containers 
+- Purchased heat-seal bags at Target for Callum to ship samples in TEM/ethanol 
+
+Started the day fresh digging into more troubleshooting the Apex's no data logging issues. I called Miranda, who was in Seattle troubleshooting the JPG-Lab Apex system in the Portage Bay Building. She was able to confer with Nuria, and both gave me some advice on how to attempt downloading the data logs. 
+
+Then, Neptune Systems customer support finally called! I spoke with Kyle who instructed me to reset the clock timezone once again, and reboot the Apex. This did not fix the problem. Kyle then remoted into my desktop and used command prompt to access the backend programming of the Apex, and found that the unit's SD card was stuck thinking the year was 2013. This revelation, as frustrating as it was, kind of made me relieved because it was a manufacturer defect that was not my fault. I shutdown the Apex system, unplugged the Apex EL brain, and packed it for shipment. Kyle indicated the cross-ship could be to HI within a day or two via next-day air. 
+
+After cleanup and poll-party test assessment, Callum and I ran to Target to get some heat seal bags for shipping TEM/ethanol preserved samples. 
+
+Finished the day with burgers and beers at Maui Brewing! 
+
+##### Wednesday 08/10/2022
+
+- Sent in Apex EL RMA
+- Watched Corinne's Masters defense!
+- Reached out to Katy Shaw about shadowing methods density separation device
+- Cleaned cambro food-safe containers, totes for storage, extension cords
+
+Neptune Systems customer support finally sent me the instructions for getting the return label for the fubar Apex EL brain. I filled it out first thing.  Callum and I talked about our plans for the next few days to pack and clean as much as possible, and send the samples to URI in the dry-shipper as soon as Wesley can get back to the UH campus to pass Emma's samples to us (fingers crossed that it's tomorrow or the day after).
+
+##### Thursday 08/11/2022
+
+- Called Apex, got replacement unit upgraded to overnight shipment
+
+- Returned excess TEM solution to Tina at UH
+
+- Shipped Jill Ashey's 3 mesh bags of samples in Putnam lab dry shipper via FedEx priority overnight, due to arrive at URI on Monday Aug 15th
+
+- Drafted email to Francesco Saliu about delaying PAE collections
+
+  We attempted to also ship Emma's samples, and coordinated with Wesley and met with him at UH with the dry shipper, however the samples would not fit, and we decided it was safest to send Jill's samples as one shipment. Removing the samples from the mesh bag did not significantly decrease the space the samples took up in the shipper. It's likely best to keep samples in mesh bags in the future. 
+
+  Called and talked with Jill Ashey, who will send the Putnam shipper back to HI on Monday, and we're crossing our fingers that it will arrive by Wednesday or Thursday next week. We will not use the shipper to freeze cryovials, just send them back to UW.
+
+  
+
+##### Friday 08/12/2022
+
+- Got permission from Ford to use FSW and chemical hood for Sunday night
+
+- Got permission from Mike to borrow some LN2 to freeze cryovials from pae-temp experiment
+
+- wrote up data sheet for pae-temp experiment
+
+  Messaged with Jill Ashey, who indicated they're in no rush to send Emma's samples back. This may mean that we're off the hook for coordinating the return of Emma's samples to URI. 
+
+
+
+##### Saturday 08/13/2022
+

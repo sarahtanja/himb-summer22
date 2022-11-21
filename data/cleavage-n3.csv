@@ -1,0 +1,21 @@
+﻿loc,specific_collection_site,lat,lon,date,species,full_id,treatment,pae_ugL,sample,n,colony_a,a_collect_time,colony_b,b_collect_time,combo_time,count_time,vial_id,egg_count,cleave_count,2cell,4cell,morecell
+HIMB,blue-tub,21.431872,-157.788674,6/28/2022,m-capitata,control-cleave-1,control,0,cleave,1,1,6/28/2022 21:05,2,6/28/2022 21:30,6/28/2022 21:50,6/29/2922 4:18,cc1,28,0,0,0,0
+HIMB,night-shuttle-dock,21.431872,-157.788674,6/28/2022,m-capitata,low-cleave-1,low,0.5,cleave,1,1,6/28/2022 21:05,2,6/28/2022 21:30,6/28/2022 21:50,6/29/2022 3:52,lc1,24,0,0,0,0
+HIMB,night-shuttle-dock,21.431872,-157.788674,6/28/2022,m-capitata,mid-cleave-1,mid,5,cleave,1,1,6/28/2022 21:05,2,6/28/2022 21:30,6/28/2022 21:50,6/29/2022 4:01,mc1,47,0,0,0,0
+HIMB,night-shuttle-dock,21.431872,-157.788674,6/28/2022,m-capitata,high-cleave-1,high,50,cleave,1,1,6/28/2022 21:05,2,6/28/2022 21:30,6/28/2022 21:50,6/29/2022 3:50,hc1,33,0,0,0,0
+HIMB,night-shuttle-dock,21.431872,-157.788674,6/28/2022,m-capitata,peak-cleave-1,peak,150,cleave,1,1,6/28/2022 21:05,2,6/28/2022 21:30,6/28/2022 21:50,6/29/2022 4:05,pc1,28,0,0,0,0
+HIMB,blue-tub,21.431872,-157.788674,6/28/2022,m-capitata,control-cleave-2,control,0,cleave,2,wild,6/28/2022 22:00,wild,6/28/2022 22:00,6/28/2022 22:15,6/29/2022 3:55,cc2,20,9,6,3,0
+HIMB,no-bundle,21.431872,-157.788674,6/28/2022,m-capitata,low-cleave-2,low,0.5,cleave,2,wild,6/28/2022 22:00,wild,6/28/2022 22:00,6/28/2022 22:10,6/29/2022 4:15,lc2,27,6,4,2,0
+HIMB,night-shuttle-dock,21.431872,-157.788674,6/28/2022,m-capitata,mid-cleave-2,mid,5,cleave,2,wild,6/28/2022 22:00,wild,6/28/2022 22:00,6/28/2022 22:10,6/29/2022 3:45,mc2,28,9,5,4,0
+HIMB,night-shuttle-dock,21.431872,-157.788674,6/28/2022,m-capitata,high-cleave-2,high,50,cleave,2,wild,6/28/2022 22:00,wild,6/28/2022 22:00,6/28/2022 22:10,6/29/2022 4:14,hc2,51,34,23,11,0
+HIMB,night-shuttle-dock,21.431872,-157.788674,6/28/2022,m-capitata,peak-cleave-2,peak,150,cleave,2,wild,6/28/2022 22:00,wild,6/28/2022 22:00,6/28/2022 22:10,6/29/2022 3:28,pc2,44,5,5,0,0
+HIMB,blue-tub,21.431872,-157.788674,6/29/2022,m-capitata,control-cleave-3,control,0,cleave,3,wild,6/29/2022 21:30,wild,6/29/2022 21:30,6/29/2022 22:05,6/30/2022 4:46,cc3,23,21,1,4,16
+HIMB,night-shuttle-dock,21.431872,-157.788674,6/29/2022,m-capitata,low-cleave-3,low,0.5,cleave,3,wild,6/29/2022 21:30,wild,6/29/2022 21:30,6/29/2022 22:05,6/30/2022 4:36,lc3,25,0,0,0,0
+HIMB,night-shuttle-dock,21.431872,-157.788674,6/29/2022,m-capitata,mid-cleave-3,mid,5,cleave,3,wild,6/29/2022 21:30,wild,6/29/2022 21:30,6/29/2022 22:05,6/30/2022 4:14,mc3,27,1,1,0,0
+HIMB,night-shuttle-dock,21.431872,-157.788674,6/29/2022,m-capitata,high-cleave-3,high,50,cleave,3,wild,6/29/2022 21:30,wild,6/29/2022 21:30,6/29/2022 22:05,6/30/2022 4:07,hc3,24,0,0,0,0
+HIMB,night-shuttle-dock,21.431872,-157.788674,6/29/2022,m-capitata,peak-cleave-3,peak,150,cleave,3,wild,6/29/2022 21:30,wild,6/29/2022 21:30,6/29/2022 22:05,6/30/2022 4:27,pc3,31,1,1,0,0
+HIMB,blue-tub,21.431872,-157.788674,6/29/2022,m-capitata,control-cleave-4,control,0,cleave,4,wild,6/29/2022 21:30,wild,6/29/2022 21:30,6/29/2022 22:05,6/30/2022 3:53,cc4,17,16,2,6,8
+HIMB,night-shuttle-dock,21.431872,-157.788674,6/29/2022,m-capitata,low-cleave-4,low,0.5,cleave,4,wild,6/29/2022 21:30,wild,6/29/2022 21:30,6/29/2022 22:05,6/30/2022 4:03,lc4,26,0,0,0,0
+HIMB,night-shuttle-dock,21.431872,-157.788674,6/29/2022,m-capitata,mid-cleave-4,mid,5,cleave,4,wild,6/29/2022 21:30,wild,6/29/2022 21:30,6/29/2022 22:05,6/30/2022 4:53,mc4,21,0,0,0,0
+HIMB,night-shuttle-dock,21.431872,-157.788674,6/29/2022,m-capitata,high-cleave-4,high,50,cleave,4,wild,6/29/2022 21:30,wild,6/29/2022 21:30,6/29/2022 22:05,6/30/2022 5:02,hc4,28,2,2,0,0
+HIMB,night-shuttle-dock,21.431872,-157.788674,6/29/2022,m-capitata,peak-cleave-4,peak,150,cleave,4,wild,6/29/2022 21:30,wild,6/29/2022 21:30,6/29/2022 22:05,6/30/2022 4:19,pc4,22,2,1,1,0
