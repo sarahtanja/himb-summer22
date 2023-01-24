@@ -133,7 +133,7 @@ I woke from a very restful night at my Auntie and Uncles house that I'll attribu
 
  
 
-##### Friday 08/05/2022
+##### Friday 08/05/2022 **DAY 1
 
 - Picked up Putnam-Lab dry shipper with Callum from UH main campus, it was still full of LN2 from the day before!
 - Prepped cryovials for flash freezing the ambient environmental baseline of  *M. capitata* samples from 10 genetically distinct colonies for later omics and microbiome analysis
@@ -142,7 +142,7 @@ I woke from a very restful night at my Auntie and Uncles house that I'll attribu
 - Clipped ~3cm fragments from each colony, Jackie moved them into cryovials, capped them tightly, and dropped them into liquid nitrogen in a small thermos. We brought the thermos of liquid nitrogen and samples to the -80 freezer, and transferred them to a wax freezer box (using long forceps to get vials out of liquid nitrogen) 
 - Stayed late to begin the pool party test trial. The objective of this trial is to see how long a small fragment of coral can last in a closed 20mL mesocosm with increasing phthalate exposure.  For the planned experiment, we also hope to have temperature as a multiple stressor factor. 
 
-##### Saturday 08/06/2022
+##### Saturday 08/06/2022 **DAY 2
 
 - Cleaned and returned all 16 2gal aquariums to Dr. Ku'ulei Rodgers (this took 2.5hrs!)
 - Assessed coral after 15hr exposure
@@ -150,7 +150,7 @@ I woke from a very restful night at my Auntie and Uncles house that I'll attribu
 
 To cut coral fragments I setup a driftwood board workbench over a tank with a ruler to measure 2cm and 3cm fragments of *M. capitata*, attempting to make as few 'pruning' trims as possible, and checking that each fragment would fit in a 20mL vial. I used the small bone cutters and 70%ethanol between working with each colony. Setting the 2cm fragments on the egg crate is a little tricky because the length between cross-pieces is just about cm, so the fragments rest perfectly across one square, or if they're a little short or nudged, they fall through the egg crate. 
 
-##### Sunday 08/07/2022
+##### Sunday 08/07/2022 **DAY 3
 
 - Drove Jackie to the airport, added Callum to the rental car 
 
@@ -162,7 +162,7 @@ To cut coral fragments I setup a driftwood board workbench over a tank with a ru
 
   Ended the day by visiting my Auntie for dinner :) 
 
-##### Monday 08/08/2022
+##### Monday 08/08/2022 **DAY 4
 
 - Programmed Apex EL with code modified from Ariana Huffmyer and Jill Ashey, details can be found in apex-el.setup.md
 - Could not fix error with data logging, opened a help ticket with Apex customer support
@@ -174,7 +174,7 @@ Frustrated, I took a short break and cleaned out a tank. Callum helped me move *
 
 We departed HIMB around 6PM.  
 
-##### Tuesday 08/09/2022
+##### Tuesday 08/09/2022 **DAY 5
 
 - Found that Apex EL unit has a manufacturer defect of a bad SD card, stuck in the year 2013. This prevents data logging because the Apex system only displays temp data from the last 3 months.
 - Assessed day 4 of pool party test, 5cm and 3cm fragments decaying. Concluded maximum length of pool party experiment should be no more than 3 days, and using 2cm fragments. 
@@ -191,7 +191,7 @@ After cleanup and poll-party test assessment, Callum and I ran to Target to get 
 
 Finished the day with burgers and beers at Maui Brewing! 
 
-##### Wednesday 08/10/2022
+##### Wednesday 08/10/2022 **DAY 6
 
 - Sent in Apex EL RMA
 - Watched Corinne's Masters defense!
@@ -200,7 +200,7 @@ Finished the day with burgers and beers at Maui Brewing!
 
 Neptune Systems customer support finally sent me the instructions for getting the return label for the fubar Apex EL brain. I filled it out first thing.  Callum and I talked about our plans for the next few days to pack and clean as much as possible, and send the samples to URI in the dry-shipper as soon as Wesley can get back to the UH campus to pass Emma's samples to us (fingers crossed that it's tomorrow or the day after).
 
-##### Thursday 08/11/2022
+##### Thursday 08/11/2022 **DAY 7
 
 - Called Apex, got replacement unit upgraded to overnight shipment
 
@@ -216,7 +216,7 @@ Neptune Systems customer support finally sent me the instructions for getting th
 
   
 
-##### Friday 08/12/2022
+##### Friday 08/12/2022 **DAY 8
 
 - Got permission from Ford to use FSW and chemical hood for Sunday night
 
@@ -226,7 +226,22 @@ Neptune Systems customer support finally sent me the instructions for getting th
 
   Messaged with Jill Ashey, who indicated they're in no rush to send Emma's samples back. This may mean that we're off the hook for coordinating the return of Emma's samples to URI. 
 
+##### Saturday 08/13/2022 **DAY 9
+
+- Fungia fail 
 
 
-##### Saturday 08/13/2022
+
+##### Sunday 08/14/2022 **DAY 10
+
+- Set Apex system up outside at blue tanks! 2 HIGH temp and 2 AMBIENT
+
+
+
+##### Monday 08/15/2022 **DAY 11
+
+- Targeted ~3cm fragments from nubbin racks! 
+- Got one nubbin from each colony, snipped in half with sanitized bone cutters, shoved in cryovials, and dropped in small thermos of LN2 (10 total nubbins culled, 20 cryovials of '**Acclimated Control**')
+- 
+- quickly dropped remaining 12 nubbins from each colony into 
 
