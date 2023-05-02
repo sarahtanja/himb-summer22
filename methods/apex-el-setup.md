@@ -6,9 +6,9 @@ The end goal of this setup is to have 2 large blue tubs as high temperature trea
 
 To accomplish this we need:
 
-- 4 500W heaters (2 per high temperature tank, [max amp draw from energy bar (EB)](https://forum.neptunesystems.com/showthread.php?20-Read-this-first-Energy-Bars-and-outlets) is 15Amps, and 7Amps per outlet)
+- 4 [500W heaters](https://www.bulkreefsupply.com/finnex-th-deluxe-titanium-heating-element-with-plastic-guard.html) (2 per high temperature tank, [max amp draw from energy bar (EB)](https://forum.neptunesystems.com/showthread.php?20-Read-this-first-Energy-Bars-and-outlets) is 15Amps, and 7Amps per outlet)
 - 1 Apex energy bar
-- 1 Apex EL (controller/brain)
+- 1 Apex EL (controller/brain/base unit)
 - 3 Apex PM1/2 modules
 - 4 Apex temperature probes
 
@@ -31,7 +31,7 @@ I then opened my Chrome browser and navigated to the Apex 'Get Started' guide ht
 
 During the initial setup I downloaded the Apex Fusion app on my phone, and made an account that I can access/login to from my phone app or on the [Apex Fusion](https://apexfusion.com/apex) web account. 
 
-Once through the initial setup, the brain and energy bar both had solid orange lights. The solid orange light indicates
+Once through the initial setup, the brain and energy bar both had solid orange lights. The solid orange light indicates they are connected to a network
 
 #### Link up PMs
 
@@ -45,7 +45,7 @@ I completed three PM additions successfully, and connected one temp probe to eac
 
 ### 8-AUG-2022
 
-The Apex unit disconnected from the network WiFi multiple times overnight. I returned to the HIMB wetlab and found that the fourth PM was still flashing yellow, and the Apex unit was not connecting to WiFi. In the Apex troubleshooting guide it indicated I needed to reboot the Apex to reconnect it to WiFi. This [YouTube video](https://www.youtube.com/watch?v=LYUs25OiKZg&t=52s) shows you how to use a small pin to press the reboot pinhole on the brain for 10 seconds, and release once the light turns blue. After rebooting and waiting a few minutes, the Apex reconnected to the WiFi and showed up on my Apex Fusion app again. I then updated the AOS Version to 5.10 8A22 (latest as of 08AUG2022). 
+The Apex unit disconnected from the network WiFi multiple times overnight. I returned to the HIMB wetlab and found that the fourth PM was still flashing yellow, and the Apex unit was not connecting to WiFi. In the Apex troubleshooting guide it indicated I needed to reboot the Apex to reconnect it to WiFi. This [YouTube video](https://www.youtube.com/watch?v=LYUs25OiKZg&t=52s) shows you how to use a small pin to press the reboot pinhole on the brain for less than 10 seconds (**if you press the reset pin for 10 seconds there is a hard reset and you lose Apex name, datalogs and programming!**) and release once the light turns blue. After rebooting and waiting a few minutes, the Apex reconnected to the WiFi and showed up on my Apex Fusion app again. I then updated the AOS Version to 5.10 8A22 (latest as of 08AUG2022). 
 
 I made a small attempt at troubleshooting the PM that was flashing yellow, but in the interest of time I disconnected the PM that wasn't working, and moved the 4th temp probe to the temp port on the brain. 
 
@@ -396,3 +396,42 @@ With all 4 500W heaters ON, I do get a high Amp and high Volt warning... The dra
 
 
 
+## University of Washington - downloading logs
+
+### 28-APR-2023
+
+I broke the reset pin while attempting to connect Apex base unit to my home network. Apparently, it is NOT a robust mechanical button.. it is delicate, treat it gently. I sent the unit back to Apex with RMA #A45186, and communicated via email with Luis Gomez to recover logs and not reset the unit. Unfortunately, they reset the unit and wiped the logs. 
+
+To troubleshoot 
+
+JPG-Lab WiFi password: ed_cW=#Wbb_ZWF[_aYW@
+
+IP address changes each time the unit reconnects to a network
+
+On 28-APR-2023 the IP address and MAC address while connected to JPG-Lab WiFi in PBB was:
+
+IP 192.168.1.53
+
+MAC Address CC-D3-1E-21-EA-FD
+
+http://192.168.1.53/cgi-bin/datalog.xml?sdate=220814&days=4 
+
+
+
+b5w7riq04hzku
+
+b5w7riq04hzku
+
+192.168.1.134
+
+http://192.168.1.134/cgi-bin/datalog.xml?sdate=220814&days=4 
+
+### 02-MAY-2023
+
+HIGH-1, Base Unit Brain
+
+AMB-1,  PM s/n 48269
+
+AMB-2,  PM s/n 50333
+
+HIGH-2,  PM s/n 49109
