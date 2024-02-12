@@ -56,7 +56,7 @@ Hazard statements:
 -  Toxic if swallowed, in contact with skin or if inhaled
 -  Causes damage to organs (Eyes, Central nervous system)
 
-This chemical is toxic and can absorb through skin, and vaporize and be inhaled. **WEAR GLOVES, SAFETY GLASSES, &  MASK. WORK UNDER A HOOD!** *If you are pregnant, consider alternatives like having someone else prepare these dilutions*.
+This chemical is toxic and can absorb through skin, and vaporize and be inhaled. **WEAR GLOVES, SAFETY GLASSES, &  MASK. WORK UNDER A HOOD!** *If you are pregnant, consider alternatives like preparing leachate similar to Tetu et. al 2020*
 
 #### Phthalates
 
@@ -198,5 +198,14 @@ $100mL$  : volume of 5$\mu$g/L stock  to add to 0.05$\mu$g/mL stock 1000mL reage
 
 ### Prepare treatment 20mL scintillation vials
 
+Using a 20mL serological pipette, pipette 19mL from the desired stock concentration into the 20mL scintillation vial. Label vial lids with treatment concentration. 
+
 ### Collect egg-sperm bundles and perform bundle-bundle crosses
 
+On spawning night, collect genetically disparate bundles and cross them (2 bundles per vial)
+
+### Count cleavage percentage 4-hours post fertilization 
+
+Set vials floating in a flow-through water bath, using diced pool floats. Let sit for 4 hours. After 4 hours, eggs should be broken up from the bundles and floating at the surface of the scintillation vial. Use a transfer pipette to move the eggs from the vial to a petri dish, and photograph all eggs from each treatment vial through an Amscope connected to a dissecting microscope. 
+
+Make sure to accurately name each photo jpeg file to reflect the treatment it came from. Work quickly and randomize the treatments you photograph. This part is very time consuming and will take 10 or more minutes per vial until you get the hang of it and start to work a bit faster (4-5 minutes per vial).
